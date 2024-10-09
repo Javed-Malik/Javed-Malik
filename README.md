@@ -23,12 +23,16 @@ I'm a **full-stack web developer** with a passion for creating dynamic and respo
 ---
 
 ### 💥 **Back-end Skills**
-[![Back-end Skills](https://skillicons.dev/icons?i=node.js,express,py,django&perline=4)](https://skillicons.dev)
+<p align="center">
+    [![Back-end Skills](https://skillicons.dev/icons?i=node.js,express,py,django&perline=4)](https://skillicons.dev)
+</p>
 
 ---
 
 ### 🌟 **Database Skills**
-[![Database Skills](https://skillicons.dev/icons?i=mongodb,mysql&perline=4)](https://skillicons.dev)
+<p align="center">
+    [![Database Skills](https://skillicons.dev/icons?i=mongodb,mysql&perline=4)](https://skillicons.dev)
+</p>
 
 ---
 
@@ -48,7 +52,4 @@ I'm a **full-stack web developer** with a passion for creating dynamic and respo
 
 ---
 
-### ✉️ **Get in Touch**
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/your-profile) or [Email](mailto:your-email@example.com)!
 
----
