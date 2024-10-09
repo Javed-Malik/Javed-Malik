@@ -23,11 +23,11 @@
    </a>  
  </p>
 
-<!-- <div align="center">
+ <div align="center">
   <a href="https://github.com/Javed-Malik">
     <img src="https://quotes-github-readme.vercel.app/api?theme=dark">
   </a>
- </div> -->
+ </div> 
 <br>
 
 #
