@@ -1,6 +1,6 @@
--** Aspiring Full Stack Web Developer
--** Currently learning *Next JS *
--** Typing speed upto 80 wpm
+-**Aspiring Full Stack Web Developer
+-**Currently learning **Next JS
+-**Typing speed upto 80 wpm
 
 #
 ## My Skill Sets ⚡
@@ -14,3 +14,13 @@
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Javed-Malik&langs_count=12&layout=compact&langs_count=8&theme=gotham&include_all_commits=true&count_private=true&hide_border=true" />
     </a>
 </p>
+
+<p align="center">
+   <a href="https://github.com/arhamansari11"> 
+     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Javed-Malik&show_icons=true&locale=en&layout=demo&theme=gotham&hide_border=true" /> 
+   </a>  
+ </p>
+
+<br>
+
+#
