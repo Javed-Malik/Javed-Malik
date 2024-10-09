@@ -6,7 +6,7 @@
 - ⌨️ **Typing speed of up to **80 WPM**,always ready to code!**
 #
 ## My Skill Sets ⚡ : 
-<div align:"center">
+<div align="center">
     [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,py,github,ai,bootstrip,npm,yarn,vite&perline=4)](https://skillicons.dev)
 </div>
 ## Front-end 🔥: 
