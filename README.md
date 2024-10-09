@@ -1,12 +1,20 @@
 
-- I’m a **full-stack web developer** with a passion for building dynamic and responsive web applications. My coding journey has equipped me with a solid foundation in both front-end and back-end technologies.
-- 🚀 Currently learning **React.js** to enhance my front-end development skills.
-- 🖥️ Proficient with **GitHub** for version control and collaboration.
-- 🧠 Actively practicing problem-solving on **LeetCode** to sharpen my coding skills.
-- ⌨️ Typing speed of up to **80 WPM**,always ready to code!
+- **I’m a **full-stack web developer** with a passion for building dynamic and responsive web applications. My coding journey has equipped me with a solid foundation in both front-end and back-end technologies.**
+- 🚀 **Currently learning **React.js** to enhance my front-end development skills.**
+- 🖥️**Proficient with **GitHub** for version control and collaboration.**
+- 🧠 **Actively practicing problem-solving on **LeetCode** to sharpen my coding skills.**
+- ⌨️ **Typing speed of up to **80 WPM**,always ready to code!**
 #
-## My Skill Sets ⚡
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,py,github,ai,bootstrip,npm,yarn,vite&perline=4)](https://skillicons.dev)
+## My Skill Sets ⚡ : 
+<div align:"center">
+    [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,py,github,ai,bootstrip,npm,yarn,vite&perline=4)](https://skillicons.dev)
+</div>
+## Front-end 🔥: 
+<div align="center">
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,Vue.js&perline=4)](https://skillicons.dev)
+</div>
+## Back-end 💥:
+[![My Skills](https://skillicons.dev/icons?i=node.js,express,py,django&perline=4)](https://skillicons.dev)
 
 #
 ## Github Stats📈:
@@ -23,11 +31,6 @@
    </a>  
  </p>
 
- <div align="center">
-  <a href="https://github.com/Javed-Malik">
-    <img src="https://quotes-github-readme.vercel.app/api?theme=dark">
-  </a>
- </div> 
 <br>
 
 #
