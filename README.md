@@ -6,14 +6,23 @@
 - ⌨️ **Typing speed of up to **80 WPM**,always ready to code!**
 #
 ## My Skill Sets ⚡ : 
+#
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,py,github,ai,bootstrap,npm,yarn,vite&perline=4)](https://skillicons.dev)
 
+#
 ## Front-end 🔥: 
+#
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,Vue.js&perline=4)](https://skillicons.dev)
+
+#
 ## Back-end 💥:
+#
 [![My Skills](https://skillicons.dev/icons?i=node.js,express,py,django&perline=4)](https://skillicons.dev)
-## Databases: MongoDB, PostgreSQL, MySQL
-[![My Skills](https://skillicons.dev/icons?i=mongoDB,mysql&perline=4)](https://skillicons.dev)
+
+#
+## Databases 🌟: 
+#
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql&perline=4)](https://skillicons.dev)
 
 #
 ## Github Stats📈:
