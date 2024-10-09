@@ -1,4 +1,4 @@
-
+### JAVED ASLAM
 - **I’m a **full-stack web developer** with a passion for building dynamic and responsive web applications. My coding journey has equipped me with a solid foundation in both front-end and back-end technologies.**
 - 🚀 **Currently learning **React.js** to enhance my front-end development skills.**
 - 🖥️**Proficient with **GitHub** for version control and collaboration.**
@@ -11,17 +11,17 @@
 
 #
 ## Front-end 🔥: 
-#
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,Vue.js&perline=4)](https://skillicons.dev)
 
 #
 ## Back-end 💥:
-#
+
 [![My Skills](https://skillicons.dev/icons?i=node.js,express,py,django&perline=4)](https://skillicons.dev)
 
 #
 ## Databases 🌟: 
-#
+
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql&perline=4)](https://skillicons.dev)
 
 #
