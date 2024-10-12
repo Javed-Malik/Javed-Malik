@@ -1,6 +1,5 @@
-# 🌟 **JAVED ASLAM** 🌟
+# 🌟**JAVED ASLAM**🌟
 
----
 
 ### 👨‍💻 **About Me**
 I'm a **full-stack web developer** with a passion for creating dynamic and responsive web applications. My coding journey has equipped me with a solid foundation in both front-end and back-end technologies.
@@ -9,28 +8,28 @@ I'm a **full-stack web developer** with a passion for creating dynamic and respo
 - 🖥️ Proficient with **GitHub** for version control and collaboration.
 - 🧠 Actively practicing problem-solving on **LeetCode**.
 - ⌨️ Typing speed of **80 WPM**—always ready to code!
-
----
+#
 
 ### ⚡ **My Skill Sets**
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,py,github,ai,bootstrap,npm,yarn,vite&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,py,github,ai,bootstrap,npm,yarn,vite&perline=4)]([https://skillicons.dev](https://github.com/Javed-Malik/Javed-Malik))
 
----
+#
 
 ### 🔥 **Front-end Skills**
-[![Front-end Skills](https://skillicons.dev/icons?i=html,css,js,react,vue&perline=4)](https://skillicons.dev)
 
----
+[![Front-end Skills](https://skillicons.dev/icons?i=html,css,js,react,vue&perline=4)]([https://skillicons.dev](https://github.com/Javed-Malik/Javed-Malik))
+
+#
 
 ### 💥 **Back-end Skills**
-[![Back-end Skills](https://skillicons.dev/icons?i=express,nodejs,py,django&perline=4)](https://skillicons.dev)
+[![Back-end Skills](https://skillicons.dev/icons?i=express,nodejs,py,django&perline=4)]([https://skillicons.dev](https://github.com/Javed-Malik/Javed-Malik))
 
----
+#
 
 ### 🌟 **Database Skills**
-[![Database Skills](https://skillicons.dev/icons?i=mongodb,mysql&perline=4)](https://skillicons.dev)
+[![Database Skills](https://skillicons.dev/icons?i=mongodb,mysql&perline=4)]([https://skillicons.dev](https://github.com/Javed-Malik/Javed-Malik))
 
----
+#
 
 ### 📈 **GitHub Stats**
 <p align="center">
@@ -46,6 +45,6 @@ I'm a **full-stack web developer** with a passion for creating dynamic and respo
     </a>
 </p>
 
----
+#
 
 
