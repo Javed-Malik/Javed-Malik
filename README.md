@@ -1,6 +1,5 @@
-# 🌟**JAVED ASLAM**🌟
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=800&size=30&pause=1000&color=030C10&width=435&lines=Muhammad+Javed+Aslam;Full-stack+Web+Developer)](https://git.io/typing-svg)
+#
 ### 👨‍💻 **About Me**
 I'm a **full-stack web developer** with a passion for creating dynamic and responsive web applications. My coding journey has equipped me with a solid foundation in both front-end and back-end technologies.
 
